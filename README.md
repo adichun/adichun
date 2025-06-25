@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ##### Connect with me
-![https://www.linkedin.com/in/adi-chandra-setiawan-16548548/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/adi.csetiawan/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+!["https://www.linkedin.com/in/adi-chandra-setiawan-16548548/"](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) !["https://www.instagram.com/adi.csetiawan/"](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
 ###### My Github
